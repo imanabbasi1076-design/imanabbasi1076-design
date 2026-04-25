@@ -26,7 +26,7 @@ Computer Science student Passionate about software development and intelligent s
 
   <img src="https://img.shields.io/badge/TikTok-000000?logo=tiktok&logoColor=white&style=for-the-badge" height="25" />
 
-  <img src="https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white&style=for-the-badge" height="25" />
+  
 
   <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" height="25" />
 
